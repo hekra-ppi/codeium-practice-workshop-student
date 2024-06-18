@@ -6,11 +6,6 @@ Welcome to the Codeium Practice Workshop! This repository contains exercises and
 
 - [Introduction](#introduction)
 - [Setup Instructions](#setup-instruction)
-- [Workshop Exercises](#workshop-exercises)
-  - [Exercise 1: Auto Completion](#exercise-1-auto-completion)
-  - [Exercise 2: Code Explanation](#exercise-2-code-explanation)
-  - [Exercise 3: Bug Finding](#exercise-3-bug-finding)
-  - [Exercise 4: Code Optimization](#exercise-4-code-optimization)
 - [Running the Code](#running-the-code)
 - [Resources](#resources)
 - [Contact Information](#contact-information)
