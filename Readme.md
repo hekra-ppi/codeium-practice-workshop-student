@@ -26,6 +26,7 @@ This repository serves as the primary resource center for participants of the Co
 - Install Java 17: Ensure you have Java 17 installed on your system. You can download it from any provider, such as [Eclipse Temurin](https://adoptium.net/de/temurin/releases/?version=17) or [OpenJDK](https://openjdk.org/).
 - Install Maven: Maven is necessary for building and running the Java applications. Instructions for installation can be found on the [Maven official website](https://maven.apache.org/install.html).
 - Install Visual Studio Code (VS Code): Download and install from VS Code official website.
+- Install Java Extension Pack for VS Code: Open VS Code, go to Extensions, search for "Java Extension Pack" and install it.
 - Install Codeium Extension for VS Code: Open VS Code, go to Extensions, search for "Codeium" and install it.
 - Get a Free Codeium Account: Sign up for a free Codeium account and familiarize yourself with its basic usage. You can find helpful tutorials and resources on [Codeium University](https://codeium.com/university).
 
@@ -35,27 +36,19 @@ This repository serves as the primary resource center for participants of the Co
 To get started with the exercises, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/hekra-ppi/codeium-practice-workshop.git
-cd codeium-practice-workshop
+git clone https://github.com/hekra-ppi/codeium-practice-workshop-student.git
+cd codeium-practice-workshop-student
 ```
 
-## Workshop Exercises
+## Running the Code
 
-### Exercise 1: Auto Completion
-
-**Objective:** Implement a Java class `Employee` with properties `name`, `age`, `email`, `position` and `salary`. Utilize Codeium's auto-completion to generate getter and setter methods. Implement additional methods. Override `equals`, `hashcode` and `toString`. 
-
-### Exercise 2: Code Explanation
-
-**Objective:** Analyze and document the functionality of a provided `Sorter` class using Codeium's code explanation and refactoring features.
-
-### Exercise 3: Bug Finding
-
-**Objective:** Identify and fix compile-time and runtime errors in a provided `BankAccountManager` class code snippet using Codeium.
-
-### Exercise 4: Code Optimization
-
-**Objective:** Optimize the code for calculating factorial using Codeium's suggestions for improvements.
+- Open the project in VS Code.
+- Running the HelloWorld Class
+  - Navigate to src/main/java/de/ppi/codiumworkshop/hello/HelloWorld.java.
+  - Right-click on HelloWorld.java and select Run Java to execute the program.
+- Running the JUnit Test
+  - Navigate to src/test/java/de/ppi/codiumworkshop/hello/HelloWorldTest.java.
+  - Right-click on HelloWorldTest.java and select Run Tests to execute the JUnit test.
 
 ## Resources
 
