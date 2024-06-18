@@ -72,5 +72,3 @@ For any queries or additional support, please reach out:
   - LinkedIn: [Helge Kraas](https://www.linkedin.com/in/helge-kraas-1ab07095/)
 
 Thank you for participating in the Codeium Practice Workshop!
-
-TEST
